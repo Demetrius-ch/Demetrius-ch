@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Développeur full-stack · Go & TypeScript</strong><br>
-  Bangui, République centrafricaine · Disponible en freelance et en remote
+  Bangui, République centrafricaine · Disponible pour des missions freelance et des postes à distance
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 ---
 
-Je conçois des API fiables et des interfaces web soignées, de la base de données jusqu'à la mise en production.
-Fondateur de **C-Dev / cdevsolutions**, une startup qui accompagne les jeunes développeurs en Afrique.
+Je conçois et développe des applications web et des API, de la base de données jusqu'au déploiement.
+Créateur de **ForgeKit** et fondateur de **C-Dev / cdevsolutions**, une startup qui accompagne les jeunes développeurs en Afrique.
 
 ## Projets
 
