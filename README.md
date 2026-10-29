@@ -32,8 +32,12 @@ Créateur de **ForgeKit** et fondateur de **C-Dev / cdevsolutions**, une startup
 **Langages** : Go, TypeScript, JavaScript, SQL, Python<br>
 **Back-end et données** : Node.js, Express, API REST, OpenAPI, PostgreSQL, SQLite<br>
 **Front-end et mobile** : React, Next.js, React Router, Tailwind CSS, Flutter<br>
-**Outils** : Git, GitHub Actions, Docker, Linux, Snap
+**Outils** : Git, GitHub Actions, Docker, Linux, Snap, Figma
 
 ## Me contacter
 
 Un projet, une mission ou une offre d'emploi ? Écrivez-moi à **lgdemetrius@gmail.com** ou passez par mon [portfolio](https://demetrius.vercel.app).
+
+## Passions
+
+Football (je joue et je regarde les matchs), vélo, et le parcours des grands technologues.
