@@ -26,6 +26,7 @@ Créateur de **ForgeKit** et fondateur de **C-Dev / cdevsolutions**, une startup
 | [**PayPilot AI**](https://github.com/Demetrius-ch/paypilotAi) | Assistant IA pour freelances : commandes, paiements PayPal, analyse du chiffre d'affaires, avec validation humaine des actions sensibles. |
 | [**Core Banking Engine**](https://github.com/Demetrius-ch/coreBanking) | Moteur bancaire : comptes avec contrôles KYC, virements, prêts et journal d'audit, sûr en accès concurrents. |
 | **SkillCraft Solutions** | Plateforme de formation en ligne : catalogue, calendrier des sessions, rendez-vous avec rappels par e-mail. |
+| **Ekklesia** | Application Android et API de gestion d'églises pour la Centrafrique : membres, cellules, chorales, cartes de membre avec QR code ; fonctionne hors connexion. |
 
 ## Compétences
 
@@ -38,6 +39,8 @@ Créateur de **ForgeKit** et fondateur de **C-Dev / cdevsolutions**, une startup
 
 Un projet, une mission ou une offre d'emploi ? Écrivez-moi à **lgdemetrius@gmail.com** ou passez par mon [portfolio](https://demetrius.vercel.app).
 
-## Passions
+## Passions et lectures
 
 Football (je joue et je regarde les matchs), vélo, et le parcours des grands technologues.
+
+**Lectures** : *Père riche, père pauvre* (Robert T. Kiyosaki), *Apocalypse*, *Bataille de l'image* (Yvann Castanou).
